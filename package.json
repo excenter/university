@@ -27,7 +27,7 @@
     "crumb": "6.x.x",
     "glue": "3.x.x",
     "good": "6.x.x",
-    "good-console": "5.x.x",
+    "good-console": "8.0.0",
     "good-file": "5.x.x",
     "handlebars": "4.x.x",
     "hapi": "13.x.x",
