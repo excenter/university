@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/hapijs/university",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "boom": "3.x.x",
     "crumb": "6.x.x",
     "glue": "3.x.x",
